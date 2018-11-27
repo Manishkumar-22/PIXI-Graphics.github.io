@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@inlet/react-pixi": "^0.3.0",
+    "pixi": "^0.3.1",
+    "pixi.js": "^4.8.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-pixi": "^0.9.19",
     "react-scripts": "2.1.1"
   },
   "scripts": {
