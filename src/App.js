@@ -8,10 +8,10 @@ class App extends Component {
   
   
   render() {
-    var a= PIXI.Text("hi",{});
+    
     return (
       <div className="App">
-      
+      <h1>hello</h1>
       </div>
     );
   }
